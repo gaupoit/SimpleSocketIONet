@@ -1,0 +1,12 @@
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\SocketIoClient.dll
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\SocketIoClient.pdb
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\WebSocket4Net.dll
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\obj\Debug\SocketIoClient.csprojResolveAssemblyReference.cache
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\obj\Debug\SocketIoClient.dll
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\obj\Debug\SocketIoClient.pdb
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\System.Net.Http.dll
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\System.Net.Http.xml
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Rubén\Documents\Visual Studio 2013\Projects\PruebaConexionWebsocket4Net\SocketIoClient\Bin\Debug\System.Net.Http.Primitives.xml
